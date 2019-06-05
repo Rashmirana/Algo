@@ -1,3 +1,3 @@
-ALGORITHM
+###ALGORITHM AND DATA STRUCTURES
 
-It contain all the  implementations of Data Structure and Algorithm. 
+It contains all the implementations of Data Structures and Algorithms. 
