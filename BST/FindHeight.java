@@ -61,7 +61,6 @@ Input:-
 4
 6
 7
-
 Output:-
 Height: 3
 */
