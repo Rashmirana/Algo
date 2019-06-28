@@ -1,6 +1,5 @@
 /*Given an arry A (may contain duplicates) of N elements and a positive integer K. The task is to count the number of elements which occurs exactly floor(N/K) times in the array.*/
 
-import java.io.*;
 import java.util.*;
 import java.lang.*;
 class CountSpecials {
