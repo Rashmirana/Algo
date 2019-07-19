@@ -27,3 +27,8 @@ class ThirdMax {
         System.out.println(res);
     }
 }
+
+/*
+Output:- 
+1
+*/
